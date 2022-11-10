@@ -1,0 +1,119 @@
+/* menu */
+.menu
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: aquamarine;
+
+}
+.logo
+{
+    display: inline-block;
+    background-color: rgba(134, 221, 20, 0.692);
+    /* width: 60%; */
+}
+.item
+{
+    /* display: inline-block; */
+    vertical-align: top;
+    float: right;
+    padding: 1%;
+}
+/* munu close */
+h1
+{
+    text-align: center;
+}
+#text
+{
+    text-align: center;
+    text-align: justify;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+/* headline1 */
+.headline1
+{padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 8%;
+    background-color: rgb(255, 127, 206);
+    display: inline-block;
+}
+.text
+{
+    width: 70%;
+   padding-top: 1%;
+    /* text-align: left; */
+    text-align: justify;
+    display: inline-block;
+    background-color: rgb(154, 154, 224);
+}
+.pic1
+{
+    /* display: inline-block; */
+    vertical-align: top;
+    float: right;
+    background-color: brown;
+}
+
+.uzd3
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 8%;
+    background-color: aquamarine;  
+}
+.pic2
+{
+    display: inline-block;
+    padding-right: 2%;
+    /* padding-top: 8%; */
+    background-color: chartreuse;
+    /* float: left;
+    vertical-align: top; */
+}
+.headline2
+{
+    /* padding-left: 5%;
+    padding-right: 5%; */
+    /* padding-top: 8%; */
+    padding-bottom: 1%;
+    width: auto;
+    background-color: rgb(8, 207, 85);
+    display: inline-block;
+    vertical-align: top; 
+}
+.text2
+{
+    width: 100%;
+   padding-top: 3%;
+    /* text-align: left; */
+    text-align: justify;
+    display: inline-block;
+    background-color: rgb(154, 154, 224);
+}
+/* addiyuy */
+
+.footer
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    background-color: rgb(192, 240, 60);
+    text-align: center; 
+}
+.a1
+{
+    display: inline-block;
+    /* padding-top: 0%;  */
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 1%; 
+    /* /* justify-content: center; */
+    
+   }
+   .rights
+   {
+    padding-top: 5%;
+    text-align: center;
+   }
